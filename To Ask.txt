@@ -1,0 +1,14 @@
+
+Performance Tab feature is not working 
+
+StringBufferedReader 
+
+1. Do i and J variables in loop start from 0 for a cell
+2. Defined driver in Config and launchapplication in Weblibrary as static
+3. In Test Case how TC are executed as no priority is given
+
+
+Git Credentials:
+
+abhishekd633
+entally2006
